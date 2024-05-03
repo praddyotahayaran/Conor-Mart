@@ -24,4 +24,5 @@ The following report provides a comprehensive overview of the sales performance 
 Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradesh by showing ads/offers/coupons available on Amazon, Flipkart and Myntra
 
 ### Screenshot
-![Screenshot 2024-03-04 154023](https://github.com/praddyotahayaran/Conor-Mart/assets/94554048/c80e92f1-8ad8-4fea-bcad-d5af17b8b12a)
+
+![Screenshot 2024-05-03 125649](https://github.com/praddyotahayaran/Corner-Mart/assets/94554048/e4c70a5c-3e9c-4d1c-b776-084a22e3776a)
